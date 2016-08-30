@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1448207037 source:e:\codeblock\iprocess\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+
+1446964366 e:\codeblock\iprocess\allegrostart.h
+
+1447860758 source:e:\codeblock\iprocess\main.cpp
+	<stdio.h>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	"iprocessing.h"
+
+1447860758 source:e:\codeblock\iprocess\iprocessing.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"iprocessing.h"
+
+1447796098 e:\codeblock\iprocess\iprocessing.h
+
+1448210637 source:i:\cb\iprocess\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+
+1446967966 i:\cb\iprocess\allegrostart.h
+
+1467658865 source:i:\cb\iprocess\main.cpp
+	<stdio.h>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	"iprocessing.h"
+
+1447799698 i:\cb\iprocess\iprocessing.h
+
+1467658771 source:i:\cb\iprocess\iprocessing.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"iprocessing.h"
+
